@@ -1,7 +1,7 @@
-# 毎日使うサイトやファイル、フォルダにキーボードで素早くたどり着く
-Web Bookmarks with Incremental Keyboard Shortcuts  
-HTML1ファイルでJavaScript60行のキーボード増分ショートカットつきWebブックマーク集です  
-DailyBookmarksと比べて、PlusはMacのアプリとフォルダやファイルへの直リンクができ、ごうさにはPHPが必要になります。
+# 毎日使うサイトやファイル、アプリ、フォルダにキーボードで素早くたどり着く
+Web/App/Folder Bookmarks with Incremental Keyboard Shortcuts  
+HTML1ファイルでJavaScript60行のキーボード増分ショートカットつきWeb/アプリ/フォルダブックマーク集です  
+DailyBookmarksと比べて、PlusはMacのアプリとフォルダやファイルへの直リンクができ、動作にはPHPが必要になります。
 「あとで読む」のような一時的ブックマークではなく、仕事や作業をしながら一日50回くらい使うことを想定しています。  
 HTMLを書ける必要があります。  
 
