@@ -1,4 +1,4 @@
-# 毎日使うサイトにキーボードで素早くたどり着く
+# 毎日使うサイトやファイル、フォルダにキーボードで素早くたどり着く
 Web Bookmarks with Incremental Keyboard Shortcuts  
 HTML1ファイルでJavaScript60行のキーボード増分ショートカットつきWebブックマーク集です  
 DailyBookmarksと比べて、PlusはMacのアプリとフォルダやファイルへの直リンクができ、ごうさにはPHPが必要になります。
