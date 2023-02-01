@@ -62,5 +62,9 @@ HTML内のAタグのscという属性をつけ、ショートカット文字列�
 # 応用
 私はこのリンク集をブラウザのスタートページにしたり、BetterTouchToolというMacのカスタマイズツールでトラックパッドの4本指下スワイプに割り当てたりしています。
 このブックマークHTML自体にたどりつきやすくすることも重要です。
+<kbd>
+<img width="1041" alt="Screenshot 2023-02-01 at 18 37 11" src="https://user-images.githubusercontent.com/1288268/216006254-fad8e16e-2bc0-4963-8541-4dbab21dc0c0.png"></kbd>
+
+
 
 # 別手段との比較
