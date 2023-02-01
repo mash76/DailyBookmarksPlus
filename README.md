@@ -51,9 +51,9 @@ HTML内のAタグのscという属性をつけ、ショートカット文字列�
 この場合、aと押せばamazonに飛びます。 
 
 ```
-<a sc="amazon" href="http://amazon.co.jp">amazon</a>  サイト
-<a sc="desktop" href="?open=<?=urlencode("Desktop")?>">Desktop</a>  フォルダ
-<a sc="syspre" href="?openapp=<?=urlencode("System Settings") ?>">システム環境設定</a>  アプリ
+<a sc="amazon" href="http://amazon.co.jp">amazonサイト</a>
+<a sc="desktop" href="?open=<?=urlencode("Desktop")?>">Desktopフォルダ</a>
+<a sc="syspre" href="?openapp=<?=urlencode("System Settings") ?>">システム環境設定アプリ</a>
 ```
 
 
