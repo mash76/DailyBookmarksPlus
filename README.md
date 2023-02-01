@@ -21,7 +21,7 @@ Mac用パッケージ管理ツールのHomebrewを入れ、BrewでPHPを入れ�
 Homebrewサイト。トップページにインストール方法が書いてあります。
 https://brew.sh/index_ja
 
-homebrewが入ったら以下のようにPHPを入れます。
+次にターミナルから以下のようにHomebrewを使ってPHPを入れます。
 ```
 brew install php 
 ```
@@ -48,10 +48,14 @@ http://0.0.0.0:8000/daily_bookmarks_plus.php
 
 # しくみ
 HTML内のAタグのscという属性をつけ、ショートカット文字列として扱っています。  
-この場合、aと押せばamazonに飛びます。  
+この場合、aと押せばamazonに飛びます。 
+
 ```
-<a sc="amazon" href="http://amazon.co.jp">amazon</a>
+<a sc="amazon" href="http://amazon.co.jp">amazon</a>  サイト
+<a sc="desktop" href="?open=<?=urlencode("Desktop")?>">Desktop</a>  フォルダ
+<a sc="syspre" href="?openapp=<?=urlencode("System Settings") ?>">システム環境設定</a>  アプリ
 ```
+
 
 当初は長いプログラムを書きましたが、生活や状況の早い変化にブックマーク集を対応させるには、細かく作り込むよりHTMLの自由さを解放するべきと考えました。
 
